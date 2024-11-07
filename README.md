@@ -77,7 +77,3 @@ Connector(and_gate, not_gate)
 # Get output
 result = not_gate.get_output()
 ```
-
-## License
-
-MIT License
